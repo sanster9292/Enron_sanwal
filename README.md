@@ -11,16 +11,16 @@ The features which I engineered were the ratio of email conversation any person 
 
 I tried a few different algorithms to check the accuracy and precision of my predictions. The algorithms which i used are as follows:
 
-Gaussian Naive-Bayes
+Gaussian Naive-Bayes:
   The accuracy score of Gaussian NB is:  0.909090909091 and precision score is 0.826446280992
 
-Decision Tree
+Decision Tree:
   The accuracy score for Decision Tree Classifer is 0.878787878788 and presicion score is  0.823863636364
 
-Support Vector Machines 
+Support Vector Machines: 
   The accuracy score for SVM is 0.909090909091 and presicion score is  0.826446280992
 
-Random Forrest. 
+Random Forrest:
   The accuracy score for RF is 0.848484848485 and presicion score is  0.869122257053
   
   
